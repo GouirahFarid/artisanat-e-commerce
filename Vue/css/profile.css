@@ -1,0 +1,157 @@
+body{
+	color: #FFFFFF;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}
+
+.profile{
+	margin-top: 50px;
+	
+}
+.left{
+	padding-top: 20px;
+	/*background-color:#FF4F00;*/
+	height:1700px;
+	/*position: fixed;*/
+	background-image: -webkit-linear-gradient(270deg,rgba(55,9,130,1.00) 38.34%,rgba(97,0,255,1.00) 87.05%);
+	background-image: -moz-linear-gradient(270deg,rgba(55,9,130,1.00) 38.34%,rgba(97,0,255,1.00) 87.05%);
+	background-image: -o-linear-gradient(270deg,rgba(55,9,130,1.00) 38.34%,rgba(97,0,255,1.00) 87.05%);
+	background-image: linear-gradient(180deg,rgba(55,9,130,1.00) 38.34%,rgba(97,0,255,1.00) 87.05%); 
+}
+.right{
+	/*left: 16%;*/
+}
+.edit_profile{
+	position:relative;
+	top: -30px;
+	height: 40px;
+	background-color: #0D0B0B;
+	opacity: 0.8;
+	color: #FFFFFF;
+	padding-top: 5px; 
+	font-size: 20px;
+}
+.image_profile{
+	position: relative;
+}
+.info{
+	margin-top: 30px;}
+.info:hover{
+	background-color: #F90045;
+}
+.active{
+	background-color: #F90045;
+	color: #000000;
+}
+a{
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover{
+	text-decoration: none;
+	color: #FFF;
+}
+a:focus{
+	text-decoration: none;
+	color: #FFF;
+}
+.a{
+	text-decoration: none;
+	color: #000;
+}
+.a:hover{
+	text-decoration: none;
+	color: #000;
+}
+.a:focus{
+	text-decoration: none;
+	color: #000;
+}
+.right{
+	background-color: #FFF;
+	height:1000px;
+}
+
+.img_pro{
+	width: 200px;
+	height: 200px;
+}
+.two{
+	margin-top:20px;
+}
+.hi{
+	pointer-events: none;
+}
+
+.sh{
+	display: none;
+}
+.span{
+	color: #FF0004;
+}
+label{
+	margin: 20px 0px;
+	color:#000;
+}
+.images{
+	margin-bottom: 20px;
+}
+.image2,.image3,.image4,.image5,.image6,.image7,.image8{
+	display:none;
+	
+}
+.omg1,.omg2,.omg3,.omg4,.omg5,.omg6,.omg7,.omg8{
+	display: none;
+}
+.omg1-1,.omg2-2,.omg3-3,.omg4-4,.omg5-5,.omg6-6,.omg7-7,.omg8-8{
+	width: 140px;
+	height: 140px;
+}
+.video2,.video3,.video4{
+	display: none;
+}
+
+.popup{
+	z-index: 2;
+	position: absolute;
+	height: 500px;
+	width:70%;
+	background-color: aliceblue;
+	top: 20%;
+	left: 20%
+}
+.sup{
+	color: #000000;
+	font-size: 40px;
+}
+.popup{
+	display: none;
+}
+.photos{
+	margin-top: 20px;
+}
+.photG{
+	border: 2px solid #FF7E00;
+}
+.tof{
+	width: 100%;
+	height: 200px;
+}
+.tof2{
+	width: 500px;
+	height: 400px;
+	left: 25%;
+	position: absolute;
+}
+.imgClass{
+	width:100%;
+	height:150px;
+}
+.titleClass{
+	width:100%;
+	height: 40px;
+	text-align: justify;
+	overflow: hidden;
+}
+.productClass{
+	margin-bottom: 3px;
+	margin-top: 3px;
+}

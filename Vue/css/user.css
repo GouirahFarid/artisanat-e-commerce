@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url('F:/JAVA EE/fichiers/4k.jpg');
+}
+.userProfile{
+	width: 38%;
+	background-color:#FCFCFC;
+	margin-top: 6%;
+	border-radius: 10%;
+	height: 540px;
+}
+.userPhoto{
+	width: 30%;
+	margin-left: 30%;
+	margin-top: 40px;
+	border: 1px solid #000;
+}
+.one{
+	margin-top: 40px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+.one i{
+	margin-right: 20px;
+	font-size: 40px;
+}
+.one p{
+	font-size: 30px;
+}

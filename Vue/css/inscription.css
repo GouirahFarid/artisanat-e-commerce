@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+*{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+body{
+	background-image:url('F:/JAVA EE/Artisanat/WebContent/Vue/images/4k.jpg');
+	background-attachment: fixed;
+}
+.container.one{
+	background-color: #FFFFFF;
+	width: 50%;
+	margin-top: 30px;
+	border-radius: 6%;
+}
+.choose{
+	margin-top: 20px;
+}
+.client,.artisan{
+	width: 200px;
+}
+.active{
+	background-color: #F96400;
+}
+.noactive{
+	background-color: #02CBAF;
+}
+.gouirah,.elkhaldi{
+	margin-top: 10px;
+}
+.elkhaldi{
+	display: none;
+}
+.row .col-xs-12{
+	margin-bottom: 1%;
+}
+label{
+	margin: 1%;
+}
+.Ob{
+  color: #FF0004;
+}
+.elkhaldi .row .col-xs-12{
+	margin-bottom: 4%
+}

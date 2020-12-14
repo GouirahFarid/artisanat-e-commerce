@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+.login{
+	margin-top: 15%;
+	width: 30%;
+	background-color: #121111;
+	color: #FFFFFF;
+	border-radius: 5%;
+	opacity: 0.9;
+    
+}
+.Ob{
+  color: #FF0004;
+}
+label{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.login2{
+	margin-top: 5%;
+}
+body{
+	background-image:url('F:/JAVA EE/Artisanat/WebContent/Vue/images/4k.jpg');
+}
